@@ -51,8 +51,9 @@ topics:
     web_url: https://aws.amazon.com/
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png
 
-  - name: Web design
+  - name: React
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png
 
-  - name: Docker
+  - name: Web Design
     web_url: https://www.docker.com/
-    image_url: https://miro.medium.com/max/1000/1*Yo7ixCaV3BGK-vrNKdPwAg.png
+    image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT52kyTLxpjbc9tMJ-U-g55wdeHzjJb-G4Bh360PzGayvcd3ei4MQ&s
